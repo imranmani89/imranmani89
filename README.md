@@ -4,6 +4,9 @@
 - 👯 I’m looking to collaborate on DotNet projects. Also, I am keen to explore new cutting-edge technologies.
 
 - 📫 How to reach me: very simple. Just drop an email at imran89pieas@gmail.com.
+
+![imranmani89's Stats](https://github-readme-stats.vercel.app/api?username=imranmani89&theme=vue&show_icons=true&hide_border=true&count_private=false)
+![imranmani89's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imranmani89&theme=vue&show_icons=true&hide_border=true&layout=compact)
 <!--
 **imranmani89/imranmani89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
