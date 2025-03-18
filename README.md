@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on DotnetCore 3.1, DotNet 5,6,7,8 based projects. Learning advanced security of JS frameworks and libraries. I am also tying up my shoes to enter into the AI models.
+- 🔭 I’m currently working on DotNet 5, 6, 7, 8, 9 based projects along with Angular Framework. Learning advanced security of JS frameworks and libraries. I am also tying up my shoes to enter into the AI models.
 
 - 👯 I’m looking to collaborate on DotNet projects. Also, I am keen to explore new cutting-edge technologies.
 
